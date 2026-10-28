@@ -1,2 +1,0 @@
- !pip freeze | grep -iE "^(opencv-python|numpy|matplotlib|scikit-image|pandas|pillow)==" > ../requirements.txt
-   !cat ../requirements.txt
