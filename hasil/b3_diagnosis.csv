@@ -1,0 +1,11 @@
+citra,kelas,kondisi,rerata,simp_baku,min,maks,%gelap,%terang
+teh_041.png,berat,normal,171.2,35.9,68,233,0.0,4.4
+teh_042.png,berat,gelap,128.8,52.6,17,189,17.7,0.0
+teh_043.png,berat,terang,206.9,27.0,129,253,0.0,69.4
+teh_044.png,berat,kontras_rendah,156.0,17.1,94,205,0.0,0.0
+teh_045.png,berat,bayangan,127.7,53.9,30,249,0.4,13.7
+teh_021.png,ringan,normal,176.9,39.3,80,224,0.0,7.2
+teh_022.png,ringan,gelap,128.9,41.3,22,186,6.1,0.0
+teh_023.png,ringan,terang,214.8,23.7,144,249,0.0,77.7
+teh_024.png,ringan,kontras_rendah,152.2,15.9,88,199,0.0,0.0
+teh_025.png,ringan,bayangan,120.8,55.2,16,245,4.1,6.9
